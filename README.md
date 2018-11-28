@@ -1,16 +1,18 @@
 # Project Title : "ill'thy" [pas encore fini]
 
-![photo](https://www.casimages.com/i/181128044614360901.png)
+![Screenshot](https://nsa39.casimages.com/img/2018/11/28/mini_181128044614360901.png)
+![Screenshot](https://nsa39.casimages.com/img/2018/11/28/mini_181128044614625381.png)
+![Screenshot](https://nsa39.casimages.com/img/2018/11/28/mini_181128044614257792.png)
 
 ### You can see the project here : [à venir]()
 
 # Presentation of the project
 "Projet Hackathon - Halloween, Mathias, Rebecca, Alexandra et Lisa"
-*Parodie des applications "Healthy"/Fitness, où plus on a des calories, plus le compteur augmente et les valeurs changent (en bonne santé, bof bof, zombie)* 
+*Parodie des applications "Healthy"/Fitness, où plus on a des calories, plus le compteur augmente et les valeurs changent (en bonne santé > bof bof > zombie)* 
 
 
 # Require
-Utiliser l’API OpenFoodFacts pour récupérer une liste de bonbons
+Utiliser l’API OpenFoodFacts pour récupérer une liste de bonbons 
 Utilisation de l’API adresses (et/ou la géolocalisation en HTML) pour localiser les maisons à visiter
 Possibilité d’indiquer les bonbons récupérés suite aux visites afin de remplir son bonbondex (dans l’idée d’un pokedex).
 Proposer des fonctionnalités additionnelles originales
